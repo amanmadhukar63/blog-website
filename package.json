@@ -1,0 +1,23 @@
+{
+  "name": "blog-website",
+  "version": "1.0.0",
+  "description": "First Internship Project--Blog Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "test": "jest"
+  },
+  "author": "Aman Madhukar",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.4",
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
